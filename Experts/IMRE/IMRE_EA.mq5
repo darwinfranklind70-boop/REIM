@@ -19,10 +19,10 @@
 #property version   "1.00"
 #property strict
 
-#include <IMRE/IMRE_Defs.mqh>
-#include <IMRE/CStructureEngine.mqh>
-#include <IMRE/CFibZones.mqh>
-#include <IMRE/CTradeManager.mqh>
+#include "IMRE_Defs.mqh"
+#include "CStructureEngine.mqh"
+#include "CFibZones.mqh"
+#include "CTradeManager.mqh"
 
 //+------------------------------------------------------------------+
 //| Inputs                                                           |
